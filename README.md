@@ -1,26 +1,16 @@
-# Challenge — Bootstrap Portfolio Site (From Scratch)
+# Professional Web Development Portfolio
 
-**Goal:** Build a responsive personal portfolio using Flexbox and other CSS you know and deploy it on GitHub Pages.
+## 🎯 Project Overview
+A fully responsive, mobile-first portfolio designed to showcase technical skills and project history. This site was built from the ground up focusing on clean UI/UX and efficient CSS architecture.
 
-## Requirements
+## 🛠️ Technical Highlights
+- **Responsive Architecture:** Implemented a mobile-first design philosophy using **Bootstrap 5** and custom Media Queries.
+- **Advanced Layouts:** Utilized **Flexbox** for navigation and **CSS Grid** for the project gallery to ensure pixel-perfect alignment across all screen sizes.
+- **UI/UX Design:** Features custom hover effects, smooth transitions, and a clean, professional aesthetic for maximum readability.
+- **Maintainability:** Structured CSS with reusable classes and logical naming conventions.
 
-- Sections: About, Projects, Contact
-- Navbar with anchors to sections
-- Mobile-first responsive behavior
+## 🚀 Live Demo
+[View the Portfolio Live here](https://piotr-szyk.github.io/advanced-css-portfolio/)
 
-## Suggested Steps
-
-1. Wireframe your layout (on paper or Figma).
-2. Create semantic HTML sections for your page.
-3. Style with your own CSS for theme polish.
-4. Commit → push → deploy with GitHub Pages.
-
-## Submission
-
-- Repo URL + live GitHub Pages URL.
-
-## My notes
-Use colors like CodeCademy uses
---dark-background: #253a52
---dark-primary: #FFFFE3
---dark-link: #A9FE75
+---
+*Developed as part of the Full-Stack Engineering Path.*
